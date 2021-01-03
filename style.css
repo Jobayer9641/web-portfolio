@@ -56,7 +56,7 @@ h3{
     font-size: 30px;
 }
 h2{
-    font-size: 45px;
+    font-size: 40px;
 }
 .move-a-bit-right{
     margin-left: 100px;
@@ -64,7 +64,7 @@ h2{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 100%;
     background-color: rgb(247, 240, 228);
 }
 .experience-area{
